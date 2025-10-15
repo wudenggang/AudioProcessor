@@ -1,0 +1,13 @@
+{
+    "last_folder": "E:\\Project\\Listening\\am846\\2025101303",
+    "check_missing_files": true,
+    "convert_config": {
+        "format": "mp3",
+        "codec": "libmp3lame",
+        "bitrate": "192k",
+        "channels": "2",
+        "sample_rate": "44100",
+        "start_time": "",
+        "end_time": ""
+    }
+}
