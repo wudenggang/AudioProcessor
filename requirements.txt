@@ -1,1 +1,13 @@
-pysimplegui>=4.56.0
+# Python依赖库
+pysimplegui>=4.60.5
+pillow>=9.5.0
+# 以下依赖可能在某些系统上需要
+# datetime （Python标准库）
+# os （Python标准库）
+# subprocess （Python标准库）
+# json （Python标准库）
+# logging （Python标准库）
+
+# 系统依赖
+# FFmpeg: 请确保已安装并添加到系统环境变量
+# 安装指南：README.md中的"安装步骤"部分
