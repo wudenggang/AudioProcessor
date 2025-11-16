@@ -30,7 +30,7 @@
 
 ### 方法1：使用预编译的可执行文件（推荐）
 
-1. 下载`release`文件夹中的`audio_processor.exe`文件
+1. 下载`dist`文件夹中的`audio_processor.exe`文件
 2. 确保已安装FFmpeg并添加到系统环境变量
 3. 双击`audio_processor.exe`直接运行
 
