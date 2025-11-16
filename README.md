@@ -1,7 +1,7 @@
 # 音频处理工具
 
 <div align="center">
-  <img src="icon/audio_icon.ico" alt="音频处理工具" width="128">
+  <img src="icon/favicon64X64.ico" alt="音频处理工具" width="128">
   <p>一款功能强大、界面友好的音频处理软件</p>
 </div>
 
